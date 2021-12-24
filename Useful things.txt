@@ -1,0 +1,7 @@
+1.Text editor(VS Code),
+2.PostgreSQL(For DB),
+3.Node.js / Express,
+4.Postman to simulate POST requests,
+5.Basic knowledge of JavaScript and HTML,
+6.Basic knowledge of debugging,
+7.Thunder-client extension(optional).
